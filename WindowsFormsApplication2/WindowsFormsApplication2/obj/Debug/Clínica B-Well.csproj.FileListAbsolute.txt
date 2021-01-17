@@ -1,0 +1,27 @@
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Clínica B-Well.csprojResolveAssemblyReference.cache
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Clínica B-Well.csproj.GenerateResource.Cache
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Especialidades.resources
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu_Administrativo.resources
+c:\users\catia\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Agendar_Consulta.resources
+C:\Users\Catia\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu_Medico.resources
+C:\Users\Catia\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Medico_Consultar.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Clínica B-Well.csprojResolveAssemblyReference.cache
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Agendar_Consulta.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Especialidades.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu_Administrativo.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Menu_Medico.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\Biomédica\1ºano\AEISP\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Clínica B-Well.csproj.GenerateResource.Cache
